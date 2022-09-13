@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, my name is _what?_ 
+#### my name is _who?_
+##### hydrocat
 
-<!--
-**hydrocat/hydrocat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work at [Point-8 GmbH](https://point-8.de/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Ansible and Bash and Micro Services
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about _my emacs setup_
+- 📫 How to reach me: github at hydrocat.xyz
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Probiotics is life !
+
+
